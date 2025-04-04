@@ -2,6 +2,14 @@
 title: "Publications"
 ---
 
+<img src="/images/virus_cells.png" width="35%" hspace="10" align="right">
+
+**Wilczek, M.P**., DuShane, J.K., Armstrong, F.J., and Maginnis, M.S. 2020. Establishment of a 
+primary cell model of JC polyomavirus infection reveals delayed progression of the infectious 
+cycle in human astrocytes. Journal of Virology; 94(5): e00174-20. [Cover Illustration, JVI09420
+10 (Cover for JVI vol. 94, no. 10 (2020))]. 
+
+
 Korutla, R.; Tedder, D.; Brogan, K.; Milosevic, M.; **Wilczek, M.P.**; Shehadeh, N.; Shara, N.; Ross, 
 E.G.; Amal, S. Analysis and Visualization of Confounders and Treatment Pathways Leading to 
 Amputation and Non-Amputation in Peripheral Artery Disease Patients Using Sankey Diagrams: 

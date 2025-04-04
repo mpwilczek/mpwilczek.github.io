@@ -33,7 +33,7 @@ website:
 
 format:
   html:
-    theme: spacelab
+    theme: sandstone
     toc: true
     smooth-scroll: true
     html-math-method: katex
