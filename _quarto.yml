@@ -34,7 +34,7 @@ website:
 
 format:
   html:
-    theme: sandstone
+    theme: yeti
     toc: true
     smooth-scroll: true
     html-math-method: katex
@@ -44,3 +44,4 @@ format:
     code-fold: true
     grid:
       body-width: 1100px
+    backgroundcolor: '#A7BEAE'
