@@ -24,10 +24,11 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-      - href: CV.pdf
-        text: CV
+        text: About
       - href: publications.qmd
         text: Publications
+      - href: CV.pdf
+        text: CV
     search: true
     pinned: true
 
