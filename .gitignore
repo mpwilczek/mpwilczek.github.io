@@ -1,10 +1,4 @@
-/.quarto/
-*.icloud
-_freeze
-.DS_Store
-/_site/
-
-__pycache__
-*.md
-site_libs
+.Rhistory
 .Rproj.user
+
+/.quarto/

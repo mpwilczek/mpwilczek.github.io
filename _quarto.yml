@@ -10,7 +10,7 @@ website:
   title: "Michael P. Wilczek"
   site-url: https://mpwilczek.github.io
   repo-url: https://github.com/mpwilczek/mpwilczek.github.io
-  favicon: assets/images/uvm.ico
+  #favicon: assets/images/uvm.ico changed icon to NU-Roux
   twitter-card: 
     creator: "@Michael-Wilczek"
     site: "@Michael-Wilczek"
