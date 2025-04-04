@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+  
+
+website:
+  open-graph: true
+  title: "Michael P. Wilczek"
+  site-url: https://mpwilczek.github.io
+  repo-url: https://github.com/mpwilczek/mpwilczek.github.io
+  favicon: assets/images/uvm.ico
+  twitter-card: 
+    creator: "@Michael-Wilczek"
+    site: "@Michael-Wilczek"
+    card-style: "summary_large_image"
+
+  navbar:
+    style: "floating"
+    background: dark
+    foreground: light
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+      - href: CV.pdf
+        text: CV
+      - href: publications.qmd
+        text: Publications
+    search: true
+    pinned: true
+
+format:
+  html:
+    theme: spacelab
+    toc: true
+    smooth-scroll: true
+    html-math-method: katex
+    include-in-header:
+      - includes.html
+    footnotes-hover: false
+    code-fold: true
+    grid:
+      body-width: 1100px
