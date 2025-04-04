@@ -2,13 +2,13 @@
 title: "Welcome!"
 ---
 
-<img src="/images/headshot.png" width="60%" hspace="20" align="center">
+<img src="/images/headshot.png" width="30%" hspace="10" align="center">
 
-I am an Assitant Teaching Professor in Biotechnology and Bioinformatics at the [Roux Institute at Northeastern University](https://roux.northeastern.edu/nu_research/comp-med/). Currently, my lab focuses on understanding viral mutation dynamics and using modeling techniques to predict human disease and tissue tropism; we recently published our work. In addition, I am passionate about integrating student learning into our research and community outreach to enhance and expand experiential learning opportunities.
+I am an Assistant Teaching Professor in Biotechnology and Bioinformatics at the [Roux Institute at Northeastern University](https://roux.northeastern.edu/nu_research/comp-med/). Currently, my lab focuses on understanding viral mutation dynamics and using modeling techniques to predict human disease and tissue tropism; we recently published our work. In addition, I am passionate about integrating student learning into our research and community outreach to enhance and expand experiential learning opportunities.
 
 ::: {.column-page-inset .text-center}
 ```{=html}
-<a class="btn btn-outline-dark", href="mailto:m.wilczek@northeastnern.edu" target="_blank" rel="noopener noreferrer">
+<a class="btn btn-outline-dark", href="mailto:m.wilczek@northeastern.edu" target="_blank" rel="noopener noreferrer">
     <i class="ai bi-envelope" role='img' aria-label='Email'></i> Email
 </a>
 <a class="btn btn-outline-dark", href="https://scholar.google.com/citations?user=5BSDGrkAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
